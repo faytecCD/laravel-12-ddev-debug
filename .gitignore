@@ -6,7 +6,9 @@
 .phpactor.json
 .phpunit.result.cache
 /.fleet
-/.idea
+#/.idea
+/.idea/laravel*.iml
+/.idea/commandlinetools/*
 /.nova
 /.phpunit.cache
 /.vscode
